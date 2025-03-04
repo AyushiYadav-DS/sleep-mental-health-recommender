@@ -1,7 +1,7 @@
 # sleep-mental-health-recommender
 
 <b> Objective </b>
-The objective is to analyze the impact of sleep disorders on mental health and build a predictive model to classify sleep disorders based on demographic, lifestyle, and health-related factors.It uses machine learning to predict sleep issues like insomnia or sleep apnea and this project also includes a Gradio-based UI to allow users to check their sleep disorder status and receive personalized recommendations(dietry).
+The objective is to analyze the impact of sleep disorders on mental health and build a predictive model to classify sleep disorders based on demographic, lifestyle, and health-related factors.It uses machine learning to predict sleep issues like insomnia or sleep apnea and this project also includes a Gradio-based UI to allow users to check their sleep disorder status and receive personalized recommendations(dietary).
 
 <b>  Data collection & preprocessing </b> 
  Dataset: The dataset contains information on sleep patterns, mental health indicators, demographics, and lifestyle factors.
